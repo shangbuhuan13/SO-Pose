@@ -33,4 +33,4 @@ If you find the code useful, please cite the following papers:
 
 >>[2]Di, Y., Manhardt, F., Wang, G., Ji, X., Navab, N., & Tombari, F. (2021). SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation. arXiv preprint arXiv:2108.08367.
 
-The code is incomplete now. We plan to release models and codes before 10.09.
+
