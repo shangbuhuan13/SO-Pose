@@ -5,7 +5,7 @@ We analyze and leverage self-occlusion in 6D pose estimation.
 
 Datasets
 ----------
-The code is based on the released code of GDR-Net in this git: [https://github.com/THU-DA-6D-Pose-Group/GDR-Net.git] (The code of GDR-Net is already included in this git)
+The code is based on the released code of GDR-Net in this [git](https://github.com/THU-DA-6D-Pose-Group/GDR-Net.git) (The code of GDR-Net is already included in this git)
 The struture of the datasets is the same.
 
 Since we need ground truth 2D-3D matching and self-occlusion results, we provide generation methods in .gdrn_selfocc_modeling/tools.
@@ -24,7 +24,7 @@ Import parameters include
 
 Trained Models
 --------------
-The trained models can be downloaded here [https://drive.google.com/file/d/136ExcMykxsVVSzOiGQVYspq1fx9Hjd6R/view?usp=sharing].
+The trained models can be downloaded [here](https://drive.google.com/file/d/136ExcMykxsVVSzOiGQVYspq1fx9Hjd6R/view?usp=sharing).
 PLease unzip the trained models in the directory specified in the configuration file.
 
 If you find the code useful, please cite the following papers:
