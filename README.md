@@ -5,10 +5,11 @@ We analyze and leverage self-occlusion in 6D pose estimation.
 
 Datasets
 ----------
-The code is based on the released code of GDR-Net in this [git](https://github.com/THU-DA-6D-Pose-Group/GDR-Net.git) (The code of GDR-Net is already included in this git)
+The code is based on the released code of GDR-Net in this [git](https://github.com/THU-DA-6D-Pose-Group/GDR-Net.git) (The code of GDR-Net is already included)
 The struture of the datasets is the same.
 
 Since we need ground truth 2D-3D matching and self-occlusion results, we provide generation methods in .gdrn_selfocc_modeling/tools.
+Please refer to generate_*.py.
 Note that public renderers (e.g. EGL, GLUMPY) may introduce noise in rendering, the inherent relations between P (2D-3D matching) and Q (self-occlusion) are not guaranteed. So if you use a renderer for efficiency, please make sure that P and Q lie on the same line.
 
 Training and Testing
