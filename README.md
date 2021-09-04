@@ -19,9 +19,9 @@ Please directly run ./gdrn_selfocc_modeling/main_gdrn.py for training and testin
 Import parameters include
 >> config-file : the path to the configuration file.
 
->> resume: whether to continue the training process from the last checkpoint.
+>> resume: if 'True', continue the training process from the last checkpoint.
 
->> eval-only: whether to directly evalute the model.
+>> eval-only: if 'True', directly evalute the model.
 
 Trained Models
 --------------
