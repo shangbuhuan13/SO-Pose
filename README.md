@@ -16,7 +16,7 @@ Training and Testing
 ----------------
 Please directly run ./gdrn_selfocc_modeling/main_gdrn.py for training and testing.
 
-Import parameters include
+Important parameters include
 >> config-file : the path to the configuration file.
 
 >> resume: if 'True', continue the training process from the last checkpoint.
