@@ -29,6 +29,8 @@ The trained models can be downloaded [here](https://drive.google.com/file/d/136E
 PLease unzip the trained models in the directory specified in the configuration file.
 An example output of the evaluation on LMO is provided.
 
+Citations
+--------------
 If you find the code useful, please cite the following papers:
 
 @inproceedings{wang2021gdr, \
