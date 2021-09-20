@@ -31,11 +31,11 @@ An example output of the evaluation on LMO is provided.
 
 If you find the code useful, please cite the following papers:
 
->>@inproceedings{wang2021gdr,
-  title={GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation},
-  author={Wang, Gu and Manhardt, Fabian and Tombari, Federico and Ji, Xiangyang},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={16611--16621},
+>>@inproceedings{wang2021gdr, \
+  title={GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation},\
+  author={Wang, Gu and Manhardt, Fabian and Tombari, Federico and Ji, Xiangyang},\
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},\
+  pages={16611--16621},\
   year={2021}
 }
 
