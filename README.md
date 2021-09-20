@@ -31,8 +31,19 @@ An example output of the evaluation on LMO is provided.
 
 If you find the code useful, please cite the following papers:
 
->>[1]Wang, G., Manhardt, F., Tombari, F., & Ji, X. (2021). GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 16611-16621).
+>>@inproceedings{wang2021gdr,
+  title={GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation},
+  author={Wang, Gu and Manhardt, Fabian and Tombari, Federico and Ji, Xiangyang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16611--16621},
+  year={2021}
+}
 
->>[2]Di, Y., Manhardt, F., Wang, G., Ji, X., Navab, N., & Tombari, F. (2021). SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation. arXiv preprint arXiv:2108.08367.
+>>@article{di2021so,
+  title={SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation},
+  author={Di, Yan and Manhardt, Fabian and Wang, Gu and Ji, Xiangyang and Navab, Nassir and Tombari, Federico},
+  journal={arXiv preprint arXiv:2108.08367},
+  year={2021}
+}
 
 
