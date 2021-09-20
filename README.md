@@ -31,7 +31,7 @@ An example output of the evaluation on LMO is provided.
 
 If you find the code useful, please cite the following papers:
 
->>@inproceedings{wang2021gdr, \
+@inproceedings{wang2021gdr, \
   title={GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation},\
   author={Wang, Gu and Manhardt, Fabian and Tombari, Federico and Ji, Xiangyang},\
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},\
@@ -39,10 +39,10 @@ If you find the code useful, please cite the following papers:
   year={2021}
 }
 
->>@article{di2021so,
-  title={SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation},
-  author={Di, Yan and Manhardt, Fabian and Wang, Gu and Ji, Xiangyang and Navab, Nassir and Tombari, Federico},
-  journal={arXiv preprint arXiv:2108.08367},
+@article{di2021so,\
+  title={SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation},\
+  author={Di, Yan and Manhardt, Fabian and Wang, Gu and Ji, Xiangyang and Navab, Nassir and Tombari, Federico},\
+  journal={arXiv preprint arXiv:2108.08367},\
   year={2021}
 }
 
