@@ -1,7 +1,6 @@
 # SO-Pose
 This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation
-This paper is basically an incremental work to paper: GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation.
-We analyze and leverage self-occlusion in 6D pose estimation.
+Leveraging self-occlusion we build a novel two-layer representation, better suited for the task of direct 6D pose regression based on 2D-3D correspondences.
 
 Datasets
 ----------
