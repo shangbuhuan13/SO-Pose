@@ -40,12 +40,12 @@ If you find the code useful, please cite the following papers:
   year={2021}
 }
 
-@InProceedings{Di_2021_ICCV,
-    author    = {Di, Yan and Manhardt, Fabian and Wang, Gu and Ji, Xiangyang and Navab, Nassir and Tombari, Federico},
-    title     = {SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2021},
-    pages     = {12396-12405}
+@InProceedings{Di_2021_ICCV,\
+    author    = {Di, Yan and Manhardt, Fabian and Wang, Gu and Ji, Xiangyang and Navab, Nassir and Tombari, Federico},\
+    title     = {SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation},\
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},\
+    month     = {October},\
+    year      = {2021},\
+    pages     = {12396-12405}\
 }
 
